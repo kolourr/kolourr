@@ -1,4 +1,4 @@
-name: WakaTime
+name: Featured repositories
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics

@@ -79,8 +79,8 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
           <img align="center" src="metrics.plugin.lines.svg" alt="Metrics" width="500">>
         </td>
         <td width="50%">
-          <h3 align="center">Time Tracker</h3>
-          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics"  width="500">
+          <h3 align="center">Featured Repositories</h3>
+          <img align="center" src="metrics.plugin.repositories.svg" alt="Metrics"  width="500">
         </td>
       </tr>
   </table>
