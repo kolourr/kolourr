@@ -48,7 +48,7 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
           <h3 align="center">Body Fat Percentage Calculator</h3>
           <p align="center">
             <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/bodyfatpercentagecalculator/master/bodyfatcalculator.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/kolourr/bodyfatpercentagecalculator" target="_blank" rel="noreferrer""><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to repository" height ="25px"></a> <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/kolourr/bodyfatpercentagecalculator" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="button to repository" height ="25px"></a> <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Easy to Use AI Body Fat Calculator
             </p>
