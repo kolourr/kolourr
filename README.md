@@ -8,13 +8,14 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned into a full-stac
 - 📫 How to reach me **kolourr@kolourr.com**
  
 
+ ### 🔨 Projects 
+
+
 
  ### 📈  Github Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolourr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kolourr/github-readme-stats)
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolourr&show_icons=true&theme=tokyonight)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kolourr&repo=github-readme-stats)](https://github.com/kolourr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolourr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kolourr/github-readme-stats)
 
 
 
