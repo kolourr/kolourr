@@ -65,12 +65,22 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Recent coding habits</h3>
-          <img align="center" src="metrics.plugin.habits.charts.svg" alt="Metrics" height="25px">
+          <h3 align="center">Basic Metrics</h3>
+          <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">>
         </td>
         <td width="50%">
           <h3 align="center">Time Tracker</h3>
-          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" height="25px">
+          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics"  width="500">
+        </td>
+      </tr>
+       <tr>
+        <td width="50%">
+          <h3 align="center">Recent coding habits</h3>
+          <img align="center" src="metrics.plugin.habits.charts.svg" alt="Metrics" width="500">>
+        </td>
+        <td width="50%">
+          <h3 align="center">Time Tracker</h3>
+          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics"  width="500">
         </td>
       </tr>
   </table>
