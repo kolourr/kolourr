@@ -11,8 +11,8 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned into a full-stac
 
  ### 📈  Github Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolourr)](https://github.com/kolourr/github-readme-stats)
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolourr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolourr)](https://github.com/kolourr/github-readme-stats)
 
 
 
