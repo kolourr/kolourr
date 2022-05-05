@@ -61,7 +61,7 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
 
  ### 📈  Github Stats 
 
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolourr&show_icons=true&layout=compact&theme=tokyonight)
+![Metrics](/github-metrics.svg)
 
 
  
