@@ -3,19 +3,65 @@
 
 ### Hi there 👋
 
-I'm Bruce aka Kolourr, an industrial engineer and artist turned into a full-stack engineer. I love learning, reading and building things that have a positive impact on people's lives. In my free time, I make Indie-Pop music. 
+I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engineer. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music. 
 
 - 📫 How to reach me **kolourr@kolourr.com**
  
 
  ### 🔨 Projects 
-
+<div align="center">
+  <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Music Avatars 10,000 NFT Collection DAAP</h3>
+          <p align="center">
+            <a href="https://github.com/kolourr/Music-Avatars" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/Music-Avatars/main/images/musicavatars.png" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://www.musicavatars.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.musicavatars.org%2F" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              A free to mint collection of 10,000 Music Avatars for Independent Artists and Musicians.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">OOP Simple Calculator</h3>
+          <p align="center">
+            <a href="https://kolourr.github.io/100devs-calculator/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/100devs-calculator/answer/images/js-calculator-example.png" alt="project example"/> </a>
+            <span> <a href="https://github.com/kolourr/100devs-calculator/tree/answer#readme" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://kolourr.github.io/100devs-calculator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkolourr%2F100devs-calculator%2Ftree%2Fanswer" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              An easy to use calculator build using Object Oriented Programming
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Tic Tac Toe</h3>
+          <p align="center">
+            <a href="https://kolourr.github.io/tictactoe/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/tictactoe/main/tictactoe.png" alt="project example"/> </a>
+            <span> <a href="https://github.com/kolourr/tictactoe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://kolourr.github.io/tictactoe/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkolourr.github.io%2Ftictactoe%2F" alt="button to live site" height="25px"></a></span>
+            <p align="center">
+              Easy to Play Tic-Tac-Toe Game
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Body Fat Percentage Calculator</h3>
+          <p align="center">
+            <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/bodyfatpercentagecalculator/master/bodyfatcalculator.png" alt="project example"/> </a>
+            <span> <a href="https://github.com/kolourr/bodyfatpercentagecalculator" target="_blank" rel="noreferrer""><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to repository" height ="25px"></a> <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              Easy to Use AI Body Fat Calculator
+            </p>
+          </p>
+        </td>
+      </tr>
+  </table>
+</div>
 
 
  ### 📈  Github Stats 
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolourr&show_icons=true&layout=compact&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolourr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kolourr/github-readme-stats)
 
 
  
