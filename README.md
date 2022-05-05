@@ -61,7 +61,8 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
 
  ### 📈  Github Stats 
 
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 
  
