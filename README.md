@@ -16,7 +16,7 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
           <h3 align="center">Music Avatars 10,000 NFT Collection DAAP</h3>
           <p align="center">
             <a href="https://github.com/kolourr/Music-Avatars" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/Music-Avatars/main/images/musicavatars.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://www.musicavatars.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.musicavatars.org%2F" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/kolourr/Music-Avatars" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://www.musicavatars.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.musicavatars.org%2F" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A free to mint collection of 10,000 Music Avatars for Independent Artists and Musicians.
             </p>
