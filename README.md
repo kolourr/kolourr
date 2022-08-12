@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engineer. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music. 
+I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music. 
 
-- 📫 How to reach me **kolourr@kolourr.com**
+- 📫 How to reach me **bruce.rebello@gmail.com**
  
 
  ### 🔨 Projects 
@@ -26,7 +26,7 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
           <h3 align="center">OOP Simple Calculator</h3>
           <p align="center">
             <a href="https://kolourr.github.io/100devs-calculator/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/100devs-calculator/answer/images/js-calculator-example.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/kolourr/100devs-calculator/tree/answer#readme" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://kolourr.github.io/100devs-calculator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkolourr%2F100devs-calculator%2Ftree%2Fanswer" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/kolourr/100devs-calculator/tree/answer#readme" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://github.com/kolourr/prime59" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkolourr%2F100devs-calculator%2Ftree%2Fanswer" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               An easy to use calculator build using Object Oriented Programming
             </p>
