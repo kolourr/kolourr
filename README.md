@@ -38,7 +38,7 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
           <h3 align="center">Prime 59</h3>
           <p align="center">
             <a href="https://kolourr.github.io/prime59/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/prime59/master/images/prime59.png" alt="project example"/> </a>
-            <span> <a href="https://kolourr.github.io/prime59/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="button to repository" height ="25px"></a> <a href="https://github.com/kolourr/prime59" target="_blank" rel="noreferrer"><img src="https://kolourr.github.io/prime59/" alt="button to live site" height="25px"></a></span>
+            <span> <a href="https://kolourr.github.io/prime59/" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="button to repository" height ="25px"></a> <a href="https://github.com/kolourr/prime59" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Easy to Play Prime 59 Game
             </p>
