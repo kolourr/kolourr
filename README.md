@@ -6,7 +6,9 @@
 I'm Bruce aka Kolourr, an Industrial Engineer and Indie Atist turned Full-Stack Developer specializing in JavaScript, Python, React, Node.js, SQL, Tailwind and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music.
 
 - 📫 How to reach me **bruce.rebello@gmail.com**
-- 🔨 What I'm currently working on: Social Network & E-Commerce Site for Celebrating Moms: Website:**https://www.allmylifeshesacrificed.com/** Repo:**https://github.com/kolourr/All-My-Life-She-Sacrificed**
+- 🔨 What I'm currently working on: Social Network & E-Commerce Site for Celebrating Moms:
+    - Website:**https://www.allmylifeshesacrificed.com/**
+    - Repo:**https://github.com/kolourr/All-My-Life-She-Sacrificed**
 - 🖥️ My Portfolio & Music **www.kolourr.com**
 
  ### 📈  Github Stats
