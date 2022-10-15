@@ -3,63 +3,13 @@
 
 ### Hi there 👋
 
-I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engineer specializing in JavaScript, React, Node.js, SQL and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music. 
+I'm Bruce aka Kolourr, an Industrial Engineer and Indie Atist turned Full-Stack Developer specializing in JavaScript, Python, React, Node.js, SQL, Tailwind and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music.
 
 - 📫 How to reach me **bruce.rebello@gmail.com**
- 
+- 🔨 What I'm currently working on: **https://www.allmylifeshesacrificed.com/**
+- 🖥️ My Portfolio & Music **www.kolourr.com**
 
- ### 🔨 Projects 
-<div align="center">
-  <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Music Avatars 10,000 NFT Collection DAAP</h3>
-          <p align="center">
-            <a href="https://github.com/kolourr/Music-Avatars" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/Music-Avatars/main/images/musicavatars.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/kolourr/Music-Avatars" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://www.musicavatars.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.musicavatars.org%2F" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              A free to mint collection of 10,000 Music Avatars for Independent Artists and Musicians.
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">OOP Simple Calculator</h3>
-          <p align="center">
-            <a href="https://kolourr.github.io/100devs-calculator/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/100devs-calculator/answer/images/js-calculator-example.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/kolourr/100devs-calculator/tree/answer#readme" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"" alt="button to repository" height ="25px"></a> <a href="https://github.com/kolourr/prime59" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkolourr%2F100devs-calculator%2Ftree%2Fanswer" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              An easy to use calculator build using Object Oriented Programming
-            </p>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Prime 59</h3>
-          <p align="center">
-            <a href="https://kolourr.github.io/prime59/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/prime59/master/images/prime59.png" alt="project example"/> </a>
-            <span> <a href="https://kolourr.github.io/prime59/" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="button to repository" height ="25px"></a> <a href="https://github.com/kolourr/prime59" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to live site" height="25px"></a></span>
-            <p align="center">
-              Easy to Play Prime 59 Game
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">Body Fat Percentage Calculator</h3>
-          <p align="center">
-            <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kolourr/bodyfatpercentagecalculator/master/bodyfatcalculator.png" alt="project example"/> </a>
-            <span> <a href="https://github.com/kolourr/bodyfatpercentagecalculator" target="_blank" rel="noreferrer""><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="button to repository" height ="25px"></a> <a href="https://www.estimatebodyfat.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.estimatebodyfat.com%2F" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              Easy to Use AI Body Fat Calculator
-            </p>
-          </p>
-        </td>
-      </tr>
-  </table>
-</div>
-
-
- ### 📈  Github Stats 
+ ### 📈  Github Stats
 
 <div align="center">
   <table>
@@ -85,8 +35,8 @@ I'm Bruce aka Kolourr, an industrial engineer and artist turned full-stack engin
       </tr>
   </table>
 
- 
- 
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
