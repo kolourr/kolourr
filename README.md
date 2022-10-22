@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Bruce aka Kolourr, an Industrial Engineer and Indie Artist turned Full-Stack Developer specializing in JavaScript, Python, React, Node.js, SQL, Tailwind and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
+Hi! I'm Bruce Rebello, a Software and Industrial Engineer specializing in JavaScript, Python, React, Node.js, SQL, Tailwind and MongoDB. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
 
 - 📫 How to reach me **bruce.rebello@gmail.com**
 - 🔨 What I'm currently working on: Social Network & E-Commerce Platform for Celebrating Moms:
