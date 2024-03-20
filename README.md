@@ -1,6 +1,6 @@
 [![Bruce Rebello's GitHub Banner](./images/brucerebello.png)](https://kolourr.com)
 
-### Hi there 👋
+### Hi 👋
 
 Hi! I'm Bruce Rebello, a Software and Industrial Engineer. I'm currently building [Commonly Odd](https://www.commonlyodd.com), a multi-player web trivia game at I Lov Guitars Inc. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
 
