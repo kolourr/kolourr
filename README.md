@@ -5,7 +5,7 @@
 Hi! I'm Bruce Rebello, a Software and Industrial Engineer. I'm currently building [Commonly Odd](https://www.commonlyodd.com), a multi-player web trivia game at I Lov Guitars Inc. I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
 
 - 📫 How to reach me **bruce.rebello@gmail.com**
-- Resume: [Resume](https://www.kolourr.com/static/resume.pdf)
+- Resume: [Resume](https://www.kolourr.com/static/resume-bruce.pdf)
 - Website: [Kolourr.com](https://www.kolourr.com)
 
 ### 📈 Github Stats
