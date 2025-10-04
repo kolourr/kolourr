@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-Hi! I'm Bruce Rebello, a Software Engineer. I'm currently building:
+Hi! I'm Bruce Rebello, an Industrial & Software Engineer. I'm currently building:
 
 - [Maxx Report](https://www.looksmaxxreport.com)
 - [Vidulk](https://www.vidulk.com)
