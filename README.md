@@ -2,7 +2,14 @@
 
 ### Hi 👋
 
-Hi! I'm Bruce Rebello, a Software Engineer. I'm currently building [Maxx Report](https://www.looksmaxxreport.com), [Makeup Check AI](https://www.makeupcheckai.com), [Rash Detector](https://www.rashdetector.com), [Vidulk](https://www.vidulk.com) and paused work on  [Commonly Odd](https://www.commonlyodd.com) and [What Do My Friends Think Of Me](https://www.whatdomyfriendsthinkofme.com) at I Lov Guitars Inc. (my 1 person startup). Previously, I worked as a software engineer at [Blue Innovations Group](https://blueinnovationsgroup.com/) helping build their infotainment system in Go and Solid-Js.
+Hi! I'm Bruce Rebello, a Software Engineer. I'm currently building:
+
+- [Maxx Report](https://www.looksmaxxreport.com)
+- [Vidulk](https://www.vidulk.com)
+- [Makeup Check AI](https://www.makeupcheckai.com)
+- [Rash Detector](https://www.rashdetector.com)
+
+and paused work on  [Commonly Odd](https://www.commonlyodd.com) and [What Do My Friends Think Of Me](https://www.whatdomyfriendsthinkofme.com) at I Lov Guitars Inc. (my 1 person startup). Previously, I worked as a software engineer at [Blue Innovations Group](https://blueinnovationsgroup.com/) helping build their infotainment system in Go and Solid-Js.
 
 I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
 
