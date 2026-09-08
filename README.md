@@ -4,12 +4,15 @@
 
 I'm Bruce Rebello, an Industrial & Software Engineer. I'm currently building:
 
-- [Maxx Report](https://www.looksmaxxreport.com)
+- [Midpoint](https://www.cardcenteringtool.com)
 - [Vidulk](https://www.vidulk.com)
 - [Makeup Check AI](https://www.makeupcheckai.com)
+- [Maxx Report](https://www.looksmaxxreport.com)
+- [Blindspot](https://www.whatdomyfriendsthinkofme.com)
+- [Trimm](https://www.trimm-app.com/)
 - [Rash Detector](https://www.rashdetector.com)
 
-and paused work on  [Commonly Odd](https://www.commonlyodd.com) and [What Do My Friends Think Of Me](https://www.whatdomyfriendsthinkofme.com) at I Lov Guitars Inc. (my 1 person startup). Previously, I worked as a software engineer at [Blue Innovations Group](https://blueinnovationsgroup.com/) helping build their infotainment system in Go and Solid-Js.
+and paused work on  [Commonly Odd](https://www.commonlyodd.com) at I Lov Guitars Inc. (my 1 person startup). Previously, I worked as a software engineer at [Blue Innovations Group](https://blueinnovationsgroup.com/) helping build their infotainment system in Go and Solid-Js.
 
 I love learning, reading and building things that have a positive impact on the world. In my free time, I make Indie-Pop music as the artist Kolourr.
 
